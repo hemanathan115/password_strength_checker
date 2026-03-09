@@ -1,7 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║           PASSWORD STRENGTH CHECKER 🔐                       ║
-║   Analyzes passwords by entropy, variety & length           ║
+║           PASSWORD STRENGTH CHECKER hemanathan115 🔐                    ║
+║   Analyzes passwords by entropy, variety & length                       ║
 ╚══════════════════════════════════════════════════════════════╝
 
 Author  : Password Strength Checker Tool
