@@ -329,7 +329,9 @@ A ratio > 0.5 means more than half the characters are different from each other 
   Score    : 100/100
   Entropy  : 119.8 bits
 ```
-##Output
+## Output
+<img src="https://github.com/hemanathan115/hemanathan115/blob/main/Picsart_25-12-12_20-00-06-218.jpg" alt="My Photo">
+
 
 
 ---
