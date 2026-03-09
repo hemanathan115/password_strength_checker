@@ -329,8 +329,8 @@ A ratio > 0.5 means more than half the characters are different from each other 
   Score    : 100/100
   Entropy  : 119.8 bits
 ```
-## Output
-<img src="https://github.com/hemanathan115/hemanathan115/blob/main/Picsart_25-12-12_20-00-06-218.jpg" alt="My Photo">
+## Output Image
+<img src="https://github.com/hemanathan115/password_strength_checker/blob/main/Screenshot_20260309-200846.Pydroid%203.png" alt="My Photo">
 
 
 
